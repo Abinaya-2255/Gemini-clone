@@ -1,1 +1,3 @@
 # Gemini-clone
+
+This project is a Gemini-inspired interface built with React, created to experiment with clean layouts, simple interactions, and modern UI patterns. The design includes a welcoming header, quick-action cards, and a spacious, minimal layout that keeps the focus on the content. Everything is structured with reusable components, making it easy to extend and refine as the project grows. The goal is to recreate the smooth, calm feel of an AI home screen while practicing real frontend workflow, from organizing files to building responsive UI elements. This is an active project and will continue to evolve with new sections, polish, and improvements over time.
